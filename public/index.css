@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.app_container {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
